@@ -25,8 +25,8 @@ feature:
     icon_pack: fas
     name: C++
   - description: 獨立設計網頁
-    icon: browser
-    icon_pack: fas
+    icon: computer
+    icon_pack: fa
     name: 前端設計
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
