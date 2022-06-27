@@ -25,13 +25,9 @@ feature:
     icon_pack: fas
     name: C++
   - description: 獨立設計網頁
-    icon: codepen
+    icon: browser
     icon_pack: fas
     name: 前端設計
-  - description: 成功臨摹Uber Eats應用程式
-    icon: figma
-    icon_pack: fas
-    name: Figma
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
