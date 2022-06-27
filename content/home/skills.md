@@ -16,18 +16,22 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
-    icon: r-project
+  - description: APCS 實作3級
+    icon: python
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: Python
+  - description: TOI新手組滿分
+    icon: code
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: C++
+  - description: 獨立設計網頁
+    icon: codepen
     icon_pack: fas
-    name: Photography
+    name: 前端設計
+  - description: 成功臨摹Uber Eats應用程式
+    icon: figma
+    icon_pack: fas
+    name: Figma
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
